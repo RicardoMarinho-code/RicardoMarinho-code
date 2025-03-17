@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Ricardo! 👋<br><br>Conhecimento da linguagem R, Python e C.<br><br>Conhecimentos de whireshark.<br><br>Sou desenvolvedor em Unreal Engine 5.<br><br>Linkedin: [https://www.instagram.com/plus.junio/](https://www.linkedin.com/in/ricardojunioo/)
+## Hi, I'm Ricardo! 👋<br><br>Conhecimento da linguagem R, Python e C.<br><br>Conhecimentos de whireshark.<br><br>Sou desenvolvedor em Unreal Engine 5.<br><br>
 
 
 ## 🌐 Socials:
