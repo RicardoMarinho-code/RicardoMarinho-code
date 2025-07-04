@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ricardo!<br>🔭 Conhecimento da linguagem R, Python e C.<br>👯 Conhecimentos de whireshark.<br>🤝 Sou desenvolvedor em Unreal Engine 5.<br>
+👋 Hi, I'm Ricardo!<br>🔭 Conhecimento da linguagem R, Python e C.<br>🦈 Conhecimentos de whireshark.<br>🤝 Sou desenvolvedor em Unreal Engine 5.<br>
 
 
 ## 🌐 Socials:
