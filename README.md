@@ -1,6 +1,8 @@
 # 💫 About Me:
-👋 Hi, I'm Ricardo!<br>🔭 Conhecimento da linguagem R, Python, JavaScript e C.<br>🦈 Conhecimentos de whireshark.<br>🤝 Programador para o Ministério das Cidades
-
+👋 Hi, I'm Ricardo!<br>
+🔭 Knowledge about R, Python, JavaScript e C.<br>
+🦈 Knowledge about whireshark.<br>
+🤝 Ministry of Cities programmer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://instagram.com/Plus.junio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/ricardojunioo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:ricardomarinho.vaga@gmail.com) 
